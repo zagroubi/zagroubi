@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zagroubi
-- 👀 I’m interested in Competetive Programming and Web Developement
-- 🌱 I’m currently learning Algorithms, Data Structure and Javascipt 
+- 👀 I’m interested in Competetive Programming
+- 🌱 I’m currently learning Algorithms, Data Structure
 - 💞️ I’m looking to collaborate on any project that can develop my skills
 - 📫 How to reach me : zagrouba.alaa0101@gmail.com
 
