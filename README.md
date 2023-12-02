@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zagroubi
-- 👀 I’m interested in Competetive Programming
+- 👀 I’m interested in Competetive Programming, cybersecurity and web development
 - 🌱 I’m currently learning Algorithms, Data Structure
 - 💞️ I’m looking to collaborate on any project that can develop my skills
-- 📫 How to reach me : zagrouba.alaa0101@gmail.com
+- 📫 How to reach me: zagrouba.alaa0101@gmail.com
 
 <!---
 zagroubi/zagroubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
