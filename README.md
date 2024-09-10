@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @zagroubi
-- 👀 I’m interested in Competetive Programming, cybersecurity and web development
-- 🌱 I’m currently learning Algorithms, Data Structure and Web Vulnerabilities
-- 💞️ I’m looking to collaborate on any project that can develop my skills
+**Hi there, I'm Alaa Zagrouba**
+ I am an undergraduate computer engineering student at ISIxBursa Technical University. I love learning about WEB! Also, I play CTFs, for fun :)
+
+- 🌱 I'm currently exploring cyber security and web development.
+- 💞️ I’m looking to collaborate on any web security project
 - 📫 How to reach me: zagrouba.alaa0101@gmail.com
 
 <!---
