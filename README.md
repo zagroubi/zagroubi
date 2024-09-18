@@ -5,7 +5,7 @@ I do some web writeups too, if you want to check them out: https://medium.com/@z
 
 - 🌱 I'm currently exploring cyber security and web development.
 - 🌟 I’m looking to collaborate on any web security project
-- 📫 How to reach me: zagrouba.alaa0101@gmail.com | https://www.linkedin.com/in/alaa-zagrouba-7286012a1/ | alaa9042 (discord)
+- 📫 How to reach me: zagrouba.alaa0101@gmail.com | alaa9042 (discord)
 
 <!---
 zagroubi/zagroubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
