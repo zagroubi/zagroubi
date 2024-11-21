@@ -1,5 +1,5 @@
 #### **Hi there, I'm Alaa Zagrouba  👋**<br/><br/>
-Undergraduate Computer Engineering student at ISI/Bursa Technical University, passionate about web development and cybersecurity. I also enjoy competing in CTFs for fun! :)
+Undergraduate Computer Engineering student at Bursa Technical University, passionate about web development and cybersecurity. I also enjoy competing in CTFs for fun! :)
 
 I do some web writeups too if you wanna check them out: https://medium.com/@zagrouba.alaa0101
 
